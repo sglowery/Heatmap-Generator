@@ -1,0 +1,14 @@
+
+*.xml
+*.iml
+2d-heatmap-generator/
+*.pyc
+*.py
+Suit_111.csv
+Suit_111.xlsx
+Suit_112_2010.csv
+Suit_112_2010.xlsx
+Suit_112_2017.csv
+Suit_112_2017.xlsx
+Wein_111.csv
+Wein_111.xlsx
